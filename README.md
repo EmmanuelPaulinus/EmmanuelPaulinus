@@ -9,3 +9,5 @@
 🚀 As I embark on this journey, I am thrilled to embrace the challenges and opportunities that lie ahead. I believe that the combination of my scientific background, web development skills, and data analytics knowledge will allow me to make significant contributions in these fields.
 
 ✨ If you're interested in exploring the intersection of chemistry, sugar industry insights, web development, and data analytics, I invite you to browse through my repositories. I am always open to collaborations, feedback, and connecting with like-minded individuals. Feel free to reach out to me at emmanuelpaulinus@gmail.com 
+
+<img src="https://t.bkit.co/w_64c5180a562d5.gif" />
